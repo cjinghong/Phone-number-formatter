@@ -1,0 +1,20 @@
+---- READ ME ----
+*****************************************************************
+
+Python script must be in the same directory as the folders below:
+1) "Source"
+2) "Destination"
+
+Put the unconverted phone numbers in the "Source" folder.
+Run the script
+The converted phone numbers will be in the "Destination" folder
+
+*****************************************************************
+
+IF ERRORS OCCUR:
+1) Please check if the 2 folders exists.
+2) Create the folder named "Source" without quotes
+3) Create the folder named "Destination" without quotes
+4) Make sure python script is in the same directory as the folders.
+
+*****************************************************************
